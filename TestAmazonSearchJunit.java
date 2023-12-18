@@ -25,8 +25,8 @@ public class TestAmazonSearchJunit {
     public static WebDriver driver;
 
     public static String myWebBrowserDriver = "webdriver.chrome.driver";
-    public static String myDriverPath = "C:/Drivers/Selenium/chrome/chromedriver.exe";
-    static String screenshotPath = "C:/Users/TEMP/Desktop";
+    public static String myDriverPath = "PATH/TO/chromedriver.exe";
+    static String screenshotPath = "PATH/TO/Desktop";
     public static String url = "https://www.amazon.com/";
     int sleepTime = 5000;
 
